@@ -1,0 +1,1496 @@
+[
+  {
+    "ID": 100,
+    "NAME": "KAVA ESPRESSO",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 101,
+    "NAME": "KAVA S MLIJEKOM MALA",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 102,
+    "NAME": "KAVA S MLIJEKOM VELIKA",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 103,
+    "NAME": "KAVA SA ŠLAGOM VELIKA",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 104,
+    "NAME": "CAPPUCCINO",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 105,
+    "NAME": "BIJELA KAVA",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 106,
+    "NAME": "FRANCK INSTANT KAVA",
+    "GROUP": "KAVE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 108,
+    "NAME": "KAVA STAFF",
+    "GROUP": "KAVE",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 107,
+    "NAME": "ČAJ",
+    "GROUP": "TOPLI NAPITCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 200,
+    "NAME": "CIJEĐENA NARANČA 0,20l",
+    "GROUP": "PRIRODNI SOKOVI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 201,
+    "NAME": "LIMUNADA 0,25l",
+    "GROUP": "PRIRODNI SOKOVI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 461,
+    "NAME": "CIJEĐENI LIMUN 0,30l",
+    "GROUP": "PRIRODNI SOKOVI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 304,
+    "NAME": "LEDENI ČAJ 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 308,
+    "NAME": "RED BULL 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 309,
+    "NAME": "COCA COLA 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 310,
+    "NAME": "COCA COLA ZERO 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 311,
+    "NAME": "FANTA 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 312,
+    "NAME": "SPRITE 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 313,
+    "NAME": "SCHWEPPES TONIC 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 314,
+    "NAME": "SCHWEPPES BITTER LEMON 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 315,
+    "NAME": "SCHWEPPES TANGERINA 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 318,
+    "NAME": "RED BULL SUGAR FREE 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 319,
+    "NAME": "PAGO 0,20l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 463,
+    "NAME": "SCHWEPPES PREMIUM 0,20l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 464,
+    "NAME": "RED BULL EDITIONS 0,25l",
+    "GROUP": "GAZIRANI SOKOVI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 400,
+    "NAME": "JAMNICA 0,25l",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 401,
+    "NAME": "JAMNICA SENSATION 0,25l",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 402,
+    "NAME": "JANA LEMON 0,33l",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 403,
+    "NAME": "JANA 0,33l",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 404,
+    "NAME": "JAMNICA BOTANICA 0,25L",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 405,
+    "NAME": "JANA NARANČA 0,33l",
+    "GROUP": "MINERALNE",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 500,
+    "NAME": "PIVO KARLOVAČKO 0,33l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 501,
+    "NAME": "PIVO HEINEKEN 0,33l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 502,
+    "NAME": "PIVO HEINEKEN 0,25 l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 503,
+    "NAME": "PIVO DESPERADO 0,33l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 504,
+    "NAME": "PIVO DESPERADO 0,25l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 505,
+    "NAME": "PIVO HEINEKEN BEZALKOHOLA 0,33l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 507,
+    "NAME": "BARTS SELTZER JAMNICA LIM I LIMET",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 510,
+    "NAME": "BARTS SELTZER JAMNICA BRUSNICA",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 550,
+    "NAME": "PIVO HEINEKEN SILVER 0,33l",
+    "GROUP": "PIVO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 506,
+    "NAME": "CIDER STRONGBOW 0,33l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 202,
+    "NAME": "MARTINI 0,10l",
+    "GROUP": "VINO",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 203,
+    "NAME": "VINO BIJELO 0,187l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 204,
+    "NAME": "VINO CRNO 0,187l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 205,
+    "NAME": "KORLAT CAB.SAUVIGNON 0,75l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 206,
+    "NAME": "LAGUNA MALVAZIJA 0,75l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 207,
+    "NAME": "KOZLOVIĆ MALVAZIJA 0,75l",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 208,
+    "NAME": "BENKOVAC CUVE 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 209,
+    "NAME": "BENKOVAC ROSE 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 210,
+    "NAME": "VEZAK GRAŠEVINA 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 211,
+    "NAME": "VEZAK SHARDONNAY 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 212,
+    "NAME": "VEZAK SAUVIGNON 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 213,
+    "NAME": "MARTINI FIERO 0,10l",
+    "GROUP": "VINO",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 265,
+    "NAME": "ADŽIĆ GRAŠEVINA 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 266,
+    "NAME": "GALIĆ SHARDOONNAY 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 273,
+    "NAME": "CORONICA MALVAZIJA 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 281,
+    "NAME": "CAPE MENTELLE SAUVIGNON BLANC 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 282,
+    "NAME": "TERRZAS MALBEC 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 317,
+    "NAME": "CHATEAU D ESCLANS WHISPERING ANGEL 0,75L",
+    "GROUP": "VINO",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 214,
+    "NAME": "DOM PERIGNON 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 215,
+    "NAME": "MARTINI ASTI 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 216,
+    "NAME": "MARTINI SPARKLING ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 217,
+    "NAME": "MARTINI PROSECCO 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 218,
+    "NAME": "MOET & CHANDON  0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 219,
+    "NAME": "MOET BRUT JEROBOAM 3l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 220,
+    "NAME": "MOET BRUT METHUSALEM 6,0L",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 221,
+    "NAME": "MOET & CHANDON 0,187l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 222,
+    "NAME": "MOET & CHANDON ICE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 223,
+    "NAME": "MOET & CHANDON ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 224,
+    "NAME": "MOET & CHANDON MAGNUM 1,5l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 225,
+    "NAME": "MOET & CHANDON BALTHAZAR 12l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 226,
+    "NAME": "MOET & CHANDON NABUCODONOSOR 15l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 227,
+    "NAME": "DOM PERIGNON METHUSALEM 6l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 228,
+    "NAME": "VEUVE CLICQUOT BRUT 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 229,
+    "NAME": "VEUVE CLICQUOT RICH 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 230,
+    "NAME": "VEUVE CLICQUOT ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 232,
+    "NAME": "DOM PERIGNON 1,5L",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 233,
+    "NAME": "MOET NECTAR IMPERIUM ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 458,
+    "NAME": "ARMAND DE BRIGNAC GOLD 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 459,
+    "NAME": "ARMAND DE BRIGNAC ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 460,
+    "NAME": "MOET & CHANDON ICE ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 474,
+    "NAME": "DOM PERIGNON ROSE 0,75l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 475,
+    "NAME": "MOET & CHANDON ICE 1,5l",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 476,
+    "NAME": "MOET & CHANDON ICE ROSE 1,5Ll",
+    "GROUP": "PJENUŠCI",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 236,
+    "NAME": "J.DANIEL'S SINGLE BARREL 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 237,
+    "NAME": "GENTLEMAN JACK 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 238,
+    "NAME": "J.DANIEL'S TENNESSEE HONEY 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 239,
+    "NAME": "JACK DANIEL'S 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 240,
+    "NAME": "JACK DANIEL'S 3l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 241,
+    "NAME": "GREY GOOSE 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 242,
+    "NAME": "GREY GOOSE 1,5l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 243,
+    "NAME": "GREY GOOSE 4,5l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 244,
+    "NAME": "ZACAPA 23YO 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 245,
+    "NAME": "GREY GOOSE 3l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 246,
+    "NAME": "GREY GOOSE VX 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 247,
+    "NAME": "JAGERMEISTER 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 248,
+    "NAME": "REMY MARTIN XO  0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 249,
+    "NAME": "TEQUILA PATRON 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 250,
+    "NAME": "TEQUILA PATRON 1,75l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 251,
+    "NAME": "GIN BOTANIST 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 253,
+    "NAME": "HENNESSY VS 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 254,
+    "NAME": "HENNESSY VSOP 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 255,
+    "NAME": "HENNESSY XO 0,70l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 257,
+    "NAME": "VODKA FINLANDIA 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 258,
+    "NAME": "BELVEDERE 0,7L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 259,
+    "NAME": "BELVEDERE 1,75l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 260,
+    "NAME": "BELVEDERE 3,0l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 261,
+    "NAME": "BELVEDERE 6,0l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 262,
+    "NAME": "BRUGAL 0,7",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 263,
+    "NAME": "BRUGAL 1888 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "CRATE"
+  },
+  {
+    "ID": 264,
+    "NAME": "GREY GOOSE LE POIRE 1L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 267,
+    "NAME": "REMY MARTIN VSOP 0,7L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 268,
+    "NAME": "HERADURA 0,7L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 269,
+    "NAME": "VILJAMOVKA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 270,
+    "NAME": "JACK DANIEL'S 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 271,
+    "NAME": "J.DANIEL'S TENNESSE HONEY 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 272,
+    "NAME": "GREY GOOSE 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 274,
+    "NAME": "JAGERMEISTER 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 275,
+    "NAME": "MALIBU 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 276,
+    "NAME": "CAMPARI 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 277,
+    "NAME": "BAILEYS 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 278,
+    "NAME": "SAMBUCA RAMAZZOTTI 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 279,
+    "NAME": "SOUTHERN COMFORT 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 280,
+    "NAME": "PELINKOVAC 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 283,
+    "NAME": "TEQUILA PATRON 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 284,
+    "NAME": "GIN BOTANIST 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 285,
+    "NAME": "FINLANDIA 0,03L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 286,
+    "NAME": "BRUGAL BIANCO 0,03L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 287,
+    "NAME": "BELVEDERE 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 288,
+    "NAME": "PEPE LOPEZ TEQUILA S 0,03L",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 289,
+    "NAME": "BRUGAL 1888 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 290,
+    "NAME": "PEPE LOPEZ GOLD 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 292,
+    "NAME": "PELINKOVAC ANTIQUE 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 293,
+    "NAME": "SEX ON THE BEACH",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 294,
+    "NAME": "ZOMBIE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 295,
+    "NAME": "HAWAIIAN",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 296,
+    "NAME": "MOJITO",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 297,
+    "NAME": "CUBA LIBRE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 298,
+    "NAME": "BLUE LAGOON",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 299,
+    "NAME": "TEQUILA SUNRISE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 300,
+    "NAME": "LONG ISLAND ICE TEA",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 301,
+    "NAME": "DEEP DIVER",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 302,
+    "NAME": "CAIPIRINHA",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 303,
+    "NAME": "SEX MACHINE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 305,
+    "NAME": "MAI TAI",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 306,
+    "NAME": "PINA COLADA",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 307,
+    "NAME": "FREE COCKTAIL",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 321,
+    "NAME": "B-52",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 322,
+    "NAME": "LYNCHBURG LEMONADE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 323,
+    "NAME": "APPLE BEE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 324,
+    "NAME": "COMPLIMENTARY DRINK",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 329,
+    "NAME": "SUMMER JACK",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 330,
+    "NAME": "SUMMER WELCOME",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 338,
+    "NAME": "SEX ON THE BEACH 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 339,
+    "NAME": "HAWAIIAN 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 340,
+    "NAME": "ZOMBIE 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 341,
+    "NAME": "PINA COLADA 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 342,
+    "NAME": "MOJITO 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 343,
+    "NAME": "CUBA LIBRE 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 344,
+    "NAME": "BLUE LAGOON 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 345,
+    "NAME": "TEQUILA SUNRISE 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 346,
+    "NAME": "LONG ISLAND ICE TEA 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 347,
+    "NAME": "DEEP DIVER 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 348,
+    "NAME": "CAIPIRINHA 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 349,
+    "NAME": "SEX MACHINE 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 350,
+    "NAME": "MAI TAI 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 331,
+    "NAME": "TRAVARICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 333,
+    "NAME": "VIŠNJEVAC 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 334,
+    "NAME": "BOROVNICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 450,
+    "NAME": "MEDICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 451,
+    "NAME": "ŠLJIVOVICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 452,
+    "NAME": "KOMOVICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 453,
+    "NAME": "KORLAT TRAVARICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 454,
+    "NAME": "KORLAT MEDICA 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 455,
+    "NAME": "KORLAT ŠIPAK 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 252,
+    "NAME": "GENTLEMAN JACK 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 325,
+    "NAME": "MARTINI FIERO TONIC",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 456,
+    "NAME": "MARTINI FIERO TONIC 1l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 326,
+    "NAME": "BELVEDERE ORGANIC 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 327,
+    "NAME": "THE MACALLAN 12YO 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 328,
+    "NAME": "THE MACALLAN 15YO 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 332,
+    "NAME": "HIGHLAND PARK 12YO 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 335,
+    "NAME": "HIGHLAND PARK 18YO 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 336,
+    "NAME": "BRUGAL PAPA ANDRES 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 337,
+    "NAME": "RUM MOUNT GAY 1703 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 457,
+    "NAME": "LOUIS XIII COGNAC 0,7l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 465,
+    "NAME": "EL JIMADOR",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 466,
+    "NAME": "PELINKOVAC ORANGE 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "OTHER"
+  },
+  {
+    "ID": 477,
+    "NAME": "SEX ON THE BEACH - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 478,
+    "NAME": "CAIPIRINHA - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 479,
+    "NAME": "TEQUILA SUNRISE - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 480,
+    "NAME": "HAWAIIAN - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 320,
+    "NAME": "KAMIKAZE",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 481,
+    "NAME": "BLUE LAGOON - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 482,
+    "NAME": "PINA COLADA - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 483,
+    "NAME": "MOJITO - P",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 484,
+    "NAME": "ORAHOVAC 0,03l",
+    "GROUP": "STRANA ŽESTOKA",
+    "TYPE": "POUR"
+  },
+  {
+    "ID": 351,
+    "NAME": "VOĆNA PLATA - 15 osoba (7kg)",
+    "GROUP": "DESERTI",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 352,
+    "NAME": "VOĆNA PLATA - 10 osoba (5kg)",
+    "GROUP": "DESERTI",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 353,
+    "NAME": "VOĆNA PLATA - 5 osoba (3kg)",
+    "GROUP": "DESERTI",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 354,
+    "NAME": "VOĆE 500gr",
+    "GROUP": "DESERTI",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 355,
+    "NAME": "MOORNING BOAT UP TO 10M",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 356,
+    "NAME": "MOORNING BOAT UP TO 12M",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 359,
+    "NAME": "COHIBA SIGLO",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 360,
+    "NAME": "DAVIDOFF SIGNATURE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 361,
+    "NAME": "MONTECRISTO PETIT No 2",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 362,
+    "NAME": "PARTAGAS SERIE D No4",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 363,
+    "NAME": "ROMEO Y JULIETA CLUB KING",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 364,
+    "NAME": "DUNHILL FINE CUT BLONDE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 365,
+    "NAME": "DUNHILL FINE CUT BLUE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 367,
+    "NAME": "COHIBA PIRAMIDES EXTRA",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 369,
+    "NAME": "NEO red",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 371,
+    "NAME": "LUCKIES RESIZED AMBER",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 373,
+    "NAME": "LUCKIES RESIZED RED",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 374,
+    "NAME": "LUCKY STRIKE AMBER",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 376,
+    "NAME": "LUCKY STRIKE SEA TOUCHED",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 377,
+    "NAME": "LUCKY STRIKE SUN KISSED",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 378,
+    "NAME": "COHIBA  ROBUSTO TUBOS",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 379,
+    "NAME": "DAVIDOFF NICARUAGVA",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 380,
+    "NAME": "MONTECRISTO EAGLE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 381,
+    "NAME": "NUB CONNETICUT",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 382,
+    "NAME": "OLIVA SERIE V DOUBLE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 383,
+    "NAME": "PARTAGAS SERIE P",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 384,
+    "NAME": "PLASENCIA ALMA FUERTE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 385,
+    "NAME": "PLASENCIA RESERVA CHURCHIL",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 386,
+    "NAME": "PLASENCIA RESERVA",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 387,
+    "NAME": "ROMEO Y JULIETA  PETIT",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 467,
+    "NAME": "NEO gold",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 468,
+    "NAME": "NEO violet",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 469,
+    "NAME": "NEO bright",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 470,
+    "NAME": "DUNHILL ESSENCE BRONCE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 471,
+    "NAME": "DUNHILL ESSENCE BLUE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 472,
+    "NAME": "LUCKY STRIKE ORIGINAL",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 473,
+    "NAME": "LUCKY STRIKE ECLIPSE",
+    "GROUP": "TRGOVAČKA ROBA",
+    "TYPE": "MISC"
+  },
+    {
+    "ID": 520,
+    "NAME": "VODKA RED BULL X2",
+    "GROUP": "ŽESTOKA STRANA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 499,
+    "NAME": "VODKA JUICE",
+    "GROUP": "ŽESTOKA STRANA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 514,
+    "NAME": "GIN TONIC",
+    "GROUP": "ŽESTOKA STRANA",
+    "TYPE": "COCKTAIL"
+  },
+  {
+    "ID": 557
+    "NAME": "VUSE BERRY 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 558
+    "NAME": "VUSE BERRY 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 561
+    "NAME": "VUSE MANGO 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 562
+    "NAME": "VUSE MANGO 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 563
+    "NAME": "VUSE PEPPERMINT 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 564
+    "NAME": "VUSE PEPPERMINT 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 565
+    "NAME": "VUSE STRAWBERRY 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 566
+    "NAME": "VUSE STRAWBERRY 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 559
+    "NAME": "VUSE TOBACCO 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 560
+    "NAME": "VUSE TOBACCO 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 567
+    "NAME": "VUSE WATERMELON 10mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  },
+  {
+    "ID": 568
+    "NAME": "VUSE WATERMELON 20mg",
+    "GROUP": "VAPE",
+    "TYPE": "MISC"
+  }
+]
