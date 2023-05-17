@@ -1422,75 +1422,75 @@
     "TYPE": "COCKTAIL"
   },
   {
-    "ID": 557
+    "ID": 557,
     "NAME": "VUSE BERRY 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 558
+    "ID": 558,
     "NAME": "VUSE BERRY 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 561
+    "ID": 561,
     "NAME": "VUSE MANGO 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 562
+    "ID": 562,
     "NAME": "VUSE MANGO 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 563
+    "ID": 563,
     "NAME": "VUSE PEPPERMINT 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 564
+    "ID": 564,
     "NAME": "VUSE PEPPERMINT 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 565
+    "ID": 565,
     "NAME": "VUSE STRAWBERRY 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 566
+    "ID": 566,
     "NAME": "VUSE STRAWBERRY 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 559
+    "ID": 559,
     "NAME": "VUSE TOBACCO 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 560
+    "ID": 560,
     "NAME": "VUSE TOBACCO 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 567
+    "ID": 567,
     "NAME": "VUSE WATERMELON 10mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   },
   {
-    "ID": 568
+    "ID": 568,
     "NAME": "VUSE WATERMELON 20mg",
-    "GROUP": "VAPE",
+    "GROUP": "TRGOVAČKA ROBA",
     "TYPE": "MISC"
   }
 ]
